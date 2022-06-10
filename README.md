@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @DylBrad
-- 👀 I’m interested in coding, DIY and gym...
-- 🌱 I’m currently learning full stack JS...
-- 💞️ I’m looking to break into the wonderful world of web development...
+- 🌱 I’m currently learning full stack web development, with a focus on JavaScript/React. I enjoy building applications and learning new technologies. 
+- 💞️ I’m looking to for full time employment as a developer. 
 - 📫 How to reach me: https://www.linkedin.com/in/dylan-bradley-a77720142/ 
-
-<!---
-DylBrad/DylBrad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
